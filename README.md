@@ -1,5 +1,7 @@
 # Task-2-Elevate_Labs
 Analysing a phishing email
+
+
 ![PHISHING](https://github.com/user-attachments/assets/1399dc9f-35c2-40e7-9c5d-1f0ffc71c8a0)
 
 
@@ -44,5 +46,7 @@ This email shows multiple red flags and should be considered a **phishing attemp
 I have included `PHISHING.png` in the repo to show the actual phishing email.
 And also the screenshots for the online email analysing tool for headers 
 
+![Screenshot 2025-05-27 213159](https://github.com/user-attachments/assets/c0cf06cf-e43b-47f2-8199-f51524a63959)
+![Screenshot 2025-05-27 213207](https://github.com/user-attachments/assets/96a9bff5-ce79-4b97-ade2-385693c4e633)
 
 
